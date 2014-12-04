@@ -20,7 +20,7 @@ body {font-size: 16px;font-family: 'Amatic SC', cursive; color: #fafafa; backgro
 	height:100%;width:100%;}
 
 a {color:#FF5050;text-decoration: none; }
-blockquote {padding: 50px;border: 3px solid #fafafa;}
+blockquote {padding-left: 50px;border: 50px solid #fafafa;}
 .clear{ clear: center; }
 .left{float: center;}
 .right{float: center;}
