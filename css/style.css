@@ -59,10 +59,10 @@ header .shell h1{ font-family: 'Source Sans Pro', sans-serif; font-weight: 400; 
 
 /* content */
 #cont .shell {margin-bottom:25px;padding: 10px;}
-#cont .shell h1{margin: 10px 0; text-align: center; font-family: 'Source Sans Pro', sans-serif; font-weight: 600; font-size: 24px; color: #fefefe; text-shadow: 1px 1px 1px #555555; }
-#cont .shell p{text-align: left; font-family: 'Josefin Sans', sans-serif; font-weight: 400; font-size: 18px; color: #fafafa; text-shadow: 1px 1px 1px #555555;line-height: 20px;}
+#cont .shell h1{margin: 10px 0; text-align: center; font-family: 'Josefin Sans', sans-serif; font-weight: 600; font-size: 24px; color: #fefefe; text-shadow: 1px 1px 1px #555555; }
+#cont .shell p{text-align: center; font-family: 'Josefin Sans', sans-serif; font-weight: 400; font-size: 18px; color: #fafafa; text-shadow: 1px 1px 1px #555555;line-height: 20px;}
 
-.text p{margin: 10px 0; text-align: left; font-family: 'Josefin Sans', sans-serif; font-weight: 400; font-size: 18px; color: #ffffff; text-shadow: 1px 1px 1px #555555;line-height: 20px; margin: 20px 10px;}
+.text p{margin: 10px 0; text-align: center; font-family: 'Josefin Sans', sans-serif; font-weight: 400; font-size: 18px; color: #ffffff; text-shadow: 1px 1px 1px #555555;line-height: 20px; margin: 20px 10px;}
 
 /* button */
 .btn-handler{margin: 0 auto;}
