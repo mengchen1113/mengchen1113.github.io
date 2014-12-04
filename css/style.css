@@ -22,8 +22,8 @@ body {font-size: 16px;font-family: 'Amatic SC', cursive; color: #fafafa; backgro
 a {color:#FF5050;text-decoration: none; }
 blockquote {padding-left: 15px;border-left: 3px solid #fafafa;}
 .clear{ clear: center; }
-.left{float: center;}
-.right{float: center;}
+.left{float: left;}
+.right{float: right;}
 .shell{ float: center; width: 561px; clear: both; background: rgba(0,0,0,0.5);margin: 0px 0 15px 10px;padding: 0px 10px;-webkit-border-radius: 10px;border-radius: 10px;}
 .ie8 .shell{background: url('../img/cont-bg.png') 0 0 repeat;}
 
@@ -49,8 +49,8 @@ header .shell h1{ font-family: 'Amatic SC', cursive; font-weight: 600; font-size
 #location .shell .holder ul li.loc img, .briefcase img{ vertical-align: middle; padding-right: 8px;}
 
 /* social */
-#social-links .shell #social-icons{ float: left; padding: 0 10px;}
-#social-links .shell #social-icons img{ margin-top: 10px; padding-left: 2px; border: none;}
+#social-links .shell #social-icons{ float: center; padding: 0 10px;}
+#social-links .shell #social-icons img{ margin-top: 2px; padding-left: 2px; border: none;}
 #social-links .shell ul li p a {color:#fafafa;text-decoration: none;vertical-align:top; }
 #social-links .shell ul{ float: left; margin: 2px 10px 0px 10px;padding: 0px;}
 #social-links .shell ul li{float: left; display: block; padding-left: 10px;margin: 0;}
