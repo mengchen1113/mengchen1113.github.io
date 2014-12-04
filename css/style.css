@@ -24,7 +24,7 @@ blockquote {padding-left: 15px;border-left: 3px solid #fafafa;}
 .clear{ clear: both; }
 .left{float: left;}
 .right{float: right;}
-.shell{ float: left; width: 561px; clear: both; background: rgba(0,0,0,0.5);margin: 0px 0 15px 10px;padding: 0px 10px;-webkit-border-radius: 10px;border-radius: 10px;}
+.shell{ float: center; width: 561px; clear: both; background: rgba(0,0,0,0.5);margin: 0px 0 15px 10px;padding: 0px 10px;-webkit-border-radius: 10px;border-radius: 10px;}
 .ie8 .shell{background: url('../img/cont-bg.png') 0 0 repeat;}
 
 
