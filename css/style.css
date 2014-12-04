@@ -19,7 +19,7 @@ body {font-size: 16px;font-family: 'Amatic SC', cursive; color: #fafafa; backgro
 	padding:0;margin:0;		/* necesarry for the raster to fill the screen */
 	height:100%;width:100%;}
 
-a {color:#00beff;text-decoration: none; }
+a {color:#FF5050;text-decoration: none; }
 blockquote {padding-left: 15px;border-left: 3px solid #fafafa;}
 .clear{ clear: both; }
 .left{float: left;}
@@ -45,7 +45,7 @@ header .shell h1{ font-family: 'Amatic SC', cursive; font-weight: 300; font-size
 /* location */
 #location .shell .holder{  margin: 0 auto;}
 #location .shell .holder ul{  text-align: center; padding: 0px;}
-#location .shell .holder ul li{ list-style-type: none; display: inline; margin-right: 10px; vertical-align:middle; font-family: 'Amatic SC', cursive; font-weight: 600; font-size: 18px; color: #Fafafa;}
+#location .shell .holder ul li{ list-style-type: none; display: inline; margin-right: 10px; vertical-align:middle; font-family: 'Amatic SC', cursive; font-weight: 600; font-size: 18px; color: #fafafa;}
 #location .shell .holder ul li.loc img, .briefcase img{ vertical-align: middle; padding-right: 8px;}
 
 /* social */
