@@ -14,8 +14,6 @@ p, h1, h2, h3, h4, h5, h6, h7, span{
 
 body, html { height: 100%; margin: 0;padding: 0; }
 
-div { margin-left: auto; margin-right: auto; width: 60%; }
-
 body {font-size: 16px;font-family: 'Amatic SC', cursive; color: #fafafa; background: #555555;    
 	overflow:hidden; 		/* needed to eliminate scrollbars caused by the background image */
 	padding:0;margin:0;		/* necesarry for the raster to fill the screen */
@@ -24,8 +22,15 @@ body {font-size: 16px;font-family: 'Amatic SC', cursive; color: #fafafa; backgro
 a {color:#FF5050;text-decoration: none; }
 blockquote {padding-left: 15px;border-left: 3px solid #fafafa;}
 .clear{ clear: center; }
+.center {margin-left: auto; margin-right: auto; width: 60%; }
+/*  
+
 .left{float: left;}
 .right{float: right;}
+
+*/
+
+
 .shell{ float: center; width: 561px; clear: both; background: rgba(0,0,0,0.5);margin: 0px 0 15px 10px;padding: 0px 10px;-webkit-border-radius: 10px;border-radius: 10px;}
 .ie8 .shell{background: url('../img/cont-bg.png') 0 0 repeat;}
 
