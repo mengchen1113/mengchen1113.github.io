@@ -19,7 +19,7 @@ body {font-size: 16px;font-family: 'Amatic SC', cursive; color: #fafafa; backgro
 	padding:0;margin:0;		/* necesarry for the raster to fill the screen */
 	height:100%;width:100%;}
 
-a {color:#FF5050;}
+a {color:#00beff;text-decoration: none; }
 blockquote {padding-left: 15px;border-left: 3px solid #fafafa;}
 .clear{ clear: both; }
 .left{float: left;}
@@ -40,7 +40,7 @@ blockquote {padding-left: 15px;border-left: 3px solid #fafafa;}
 #wrapper {position:absolute;z-index: 5;overflow:auto;height:100%;width:100%;}
 header {padding: 0; margin: 0; }
 header .shell{background: none; text-align: center; }
-header .shell h1{ font-family: 'Amatic SC', cursive; font-weight: 300; font-size: 48px; color: #FF5050; margin: 15px 0 0 0; text-shadow: 1px 1px 1px #fdfdfd; }
+header .shell h1{ font-family: 'Amatic SC', cursive; font-weight: 300; font-size: 48px; color: #FF5050; margin: 15px 0 0 0; text-shadow: 1px 1px 1px #463737; }
 
 /* location */
 #location .shell .holder{  margin: 0 auto;}
