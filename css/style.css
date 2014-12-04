@@ -59,10 +59,10 @@ header .shell h1{ font-family: 'Amatic SC', cursive; font-weight: 300; font-size
 
 /* content */
 #cont .shell {margin-bottom:25px;padding: 10px;}
-#cont .shell h1{margin: 10px 0; text-align: center; font-family: 'Josefin Sans', sans-serif; font-weight: 300; font-size: 24px; color: #fefefe; text-shadow: 1px 1px 1px #555555; }
-#cont .shell p{text-align: center; font-family: 'Josefin Sans', sans-serif; font-weight: 300; font-size: 16px; color: #fafafa; text-shadow: 1px 1px 1px #555555;line-height: 20px;}
+#cont .shell h1{margin: 10px 0; text-align: center; font-family: 'Yanone Kaffeesatz', sans-serif; font-weight: 300; font-size: 24px; color: #fefefe; text-shadow: 1px 1px 1px #555555; }
+#cont .shell p{text-align: center; font-family: 'Yanone Kaffeesatz', sans-serif; font-weight: 300; font-size: 16px; color: #fafafa; text-shadow: 1px 1px 1px #555555;line-height: 20px;}
 
-.text p{margin: 10px 0; text-align: center; font-family: 'Josefin Sans', sans-serif; font-weight: 300; font-size: 16px; color: #ffffff; text-shadow: 1px 1px 1px #555555;line-height: 20px; margin: 20px 10px;}
+.text p{margin: 10px 0; text-align: center; font-family: 'Yanone Kaffeesatz', sans-serif; font-weight: 300; font-size: 16px; color: #ffffff; text-shadow: 1px 1px 1px #555555;line-height: 20px; margin: 20px 10px;}
 
 /* button */
 .btn-handler{margin: 0 auto;}
