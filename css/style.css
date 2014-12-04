@@ -39,7 +39,7 @@ blockquote {padding-left: 15px;border-left: 3px solid #fafafa;}
 
 /* header */
 /*#wrapper { min-height:100%; position:relative;z-index: 5;overflow:auto;height:100%;width:100%;}*/
-#wrapper { margin-left: auto;  margin-right: auto; /*position: absolute;*/ z-index: 5;overflow:auto;height:100%;width:100%;}
+#wrapper { margin-left: auto;  margin-right: auto; position: relative; z-index: 5;overflow:auto;height:100%;width:100%;}
 header {padding: 0; margin: 0; }
 header .shell{background: none; text-align: center; }
 header .shell h1{ font-family: 'Amatic SC', cursive; font-weight: 600; font-size: 70px; color: #FF5050; margin: 15px 0 0 0; text-shadow: 1px 1px 1px #463737; }
