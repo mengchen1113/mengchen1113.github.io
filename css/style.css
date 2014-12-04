@@ -40,7 +40,7 @@ blockquote {padding-left: 15px;border-left: 3px solid #fafafa;}
 #wrapper {position:absolute;z-index: 5;overflow:auto;height:100%;width:100%;}
 header {padding: 0; margin: 0; }
 header .shell{background: none; text-align: center; }
-header .shell h1{ font-family: 'Source Sans Pro', sans-serif; font-weight: 400; font-size: 48px; color: #ffffff; margin: 15px 0 0 0; text-shadow: 1px 1px 1px #fdfdfd; }
+header .shell h1{ font-family: 'Source Sans Pro', sans-serif; font-weight: 300; font-size: 48px; color: #ffffff; margin: 15px 0 0 0; text-shadow: 1px 1px 1px #fdfdfd; }
 
 /* location */
 #location .shell .holder{  margin: 0 auto;}
@@ -55,14 +55,14 @@ header .shell h1{ font-family: 'Source Sans Pro', sans-serif; font-weight: 400; 
 #social-links .shell ul{ float: left; margin: 2px 10px 0px 10px;padding: 0px;}
 #social-links .shell ul li{float: left; display: block; padding-left: 10px;margin: 0;}
 #social-links .shell ul li img{vertical-align: top; padding-right:5px;}
-#social-links .shell ul li p{ font-family: 'Source Sans Pro', sans-serif; font-weight: 400; font-size: 14px; color: #ffffff; padding-left: 0px;}
+#social-links .shell ul li p{ font-family: 'Source Sans Pro', sans-serif; font-weight: 300; font-size: 14px; color: #ffffff; padding-left: 0px;}
 
 /* content */
 #cont .shell {margin-bottom:25px;padding: 10px;}
-#cont .shell h1{margin: 10px 0; text-align: center; font-family: 'Josefin Sans', sans-serif; font-weight: 600; font-size: 24px; color: #fefefe; text-shadow: 1px 1px 1px #555555; }
-#cont .shell p{text-align: center; font-family: 'Josefin Sans', sans-serif; font-weight: 400; font-size: 18px; color: #fafafa; text-shadow: 1px 1px 1px #555555;line-height: 20px;}
+#cont .shell h1{margin: 10px 0; text-align: center; font-family: 'Josefin Sans', sans-serif; font-weight: 300; font-size: 24px; color: #fefefe; text-shadow: 1px 1px 1px #555555; }
+#cont .shell p{text-align: center; font-family: 'Josefin Sans', sans-serif; font-weight: 300; font-size: 16px; color: #fafafa; text-shadow: 1px 1px 1px #555555;line-height: 20px;}
 
-.text p{margin: 10px 0; text-align: center; font-family: 'Josefin Sans', sans-serif; font-weight: 400; font-size: 18px; color: #ffffff; text-shadow: 1px 1px 1px #555555;line-height: 20px; margin: 20px 10px;}
+.text p{margin: 10px 0; text-align: center; font-family: 'Josefin Sans', sans-serif; font-weight: 300; font-size: 16px; color: #ffffff; text-shadow: 1px 1px 1px #555555;line-height: 20px; margin: 20px 10px;}
 
 /* button */
 .btn-handler{margin: 0 auto;}
@@ -70,7 +70,7 @@ header .shell h1{ font-family: 'Source Sans Pro', sans-serif; font-weight: 400; 
 .button {
 	width: 533px;
 	text-align: center;
-	font-family: 'Source Sans Pro', sans-serif; font-weight: 600;
+	font-family: 'Source Sans Pro', sans-serif; font-weight: 300;
 	color: #aa8b00;
 	font-size: 18px;
 	padding: 10px;
